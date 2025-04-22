@@ -1,0 +1,1842 @@
+[
+  {
+    "name": "Atlético Mineiro",
+    "coaches": [
+      {
+        "name": "Cuca",
+        "startDate": "29/12/2024",
+        "endDate": ""
+      },
+      {
+        "name": "Gabriel Milito",
+        "startDate": "24/03/2024",
+        "endDate": "05/12/2024"
+      },
+      {
+        "name": "Luiz Felipe Scolari",
+        "startDate": "19/06/2023",
+        "endDate": "20/03/2024"
+      },
+      {
+        "name": "Eduardo Coudet",
+        "startDate": "01/01/2023",
+        "endDate": "16/06/2023"
+      },
+      {
+        "name": "Cuca",
+        "startDate": "29/07/2022",
+        "endDate": "14/11/2022"
+      },
+      {
+        "name": "Antonio Mohamed",
+        "startDate": "13/01/2022",
+        "endDate": "22/07/2022"
+      },
+      {
+        "name": "Cuca",
+        "startDate": "16/03/2021",
+        "endDate": "28/12/2021"
+      },
+      {
+        "name": "Lucas Gonçalves",
+        "startDate": "27/02/2021",
+        "endDate": "15/03/2021"
+      },
+      {
+        "name": "Jorge Sampaoli",
+        "startDate": "01/03/2020",
+        "endDate": "22/02/2021"
+      },
+      {
+        "name": "James Freitas",
+        "startDate": "29/02/2020",
+        "endDate": "09/03/2020"
+      },
+      {
+        "name": "Rafael Dudamel",
+        "startDate": "02/01/2020",
+        "endDate": "27/02/2020"
+      },
+      {
+        "name": "Vagner Mancini",
+        "startDate": "15/10/2019",
+        "endDate": "31/12/2019"
+      },
+      {
+        "name": "Rodrigo Santana",
+        "startDate": "18/04/2019",
+        "endDate": "15/10/2019"
+      },
+      {
+        "name": "Levir Culpi",
+        "startDate": "17/10/2018",
+        "endDate": "11/04/2019"
+      },
+      {
+        "name": "Thiago Larghi",
+        "startDate": "26/03/2018",
+        "endDate": "17/10/2018"
+      },
+      {
+        "name": "Thiago Larghi",
+        "startDate": "09/02/2018",
+        "endDate": "25/03/2018"
+      },
+      {
+        "name": "Oswaldo de Oliveira",
+        "startDate": "26/09/2017",
+        "endDate": "09/02/2018"
+      },
+      {
+        "name": "Rogério Micale",
+        "startDate": "21/07/2017",
+        "endDate": "24/09/2017"
+      },
+      {
+        "name": "Roger Machado",
+        "startDate": "01/01/2017",
+        "endDate": "20/07/2017"
+      },
+      {
+        "name": "Diogo Giacomini",
+        "startDate": "24/11/2016",
+        "endDate": "11/12/2016"
+      },
+      {
+        "name": "Marcelo Oliveira",
+        "startDate": "21/05/2016",
+        "endDate": "24/11/2016"
+      },
+      {
+        "name": "Diego Aguirre",
+        "startDate": "03/12/2015",
+        "endDate": "19/05/2016"
+      },
+      {
+        "name": "Levir Culpi",
+        "startDate": "25/04/2014",
+        "endDate": "26/11/2015"
+      },
+      {
+        "name": "Paulo Autuori",
+        "startDate": "22/12/2013",
+        "endDate": "25/04/2014"
+      },
+      {
+        "name": "Cuca",
+        "startDate": "09/08/2011",
+        "endDate": "22/12/2013"
+      },
+      {
+        "name": "Dorival Júnior",
+        "startDate": "26/09/2010",
+        "endDate": "08/08/2011"
+      },
+      {
+        "name": "Vanderlei Luxemburgo",
+        "startDate": "01/01/2010",
+        "endDate": "24/09/2010"
+      }
+    ]
+  },
+  {
+    "name": "Botafogo",
+    "coaches": [
+      {
+        "name": "Renato Paiva",
+        "startDate": "28/02/2025",
+        "endDate": ""
+      },
+      {
+        "name": "Cláudio Caçapa",
+        "startDate": "13/02/2025",
+        "endDate": "28/02/2025"
+      },
+      {
+        "name": "Carlos Leiria",
+        "startDate": "01/01/2025",
+        "endDate": "13/02/2025"
+      },
+      {
+        "name": "Artur Jorge",
+        "startDate": "03/04/2024",
+        "endDate": "03/01/2025"
+      },
+      {
+        "name": "Fábio Matias",
+        "startDate": "23/02/2024",
+        "endDate": "10/04/2024"
+      },
+      {
+        "name": "Tiago Nunes",
+        "startDate": "15/11/2023",
+        "endDate": "22/02/2024"
+      },
+      {
+        "name": "Lúcio Flávio",
+        "startDate": "05/10/2023",
+        "endDate": "15/11/2023"
+      },
+      {
+        "name": "Bruno Lage",
+        "startDate": "18/07/2023",
+        "endDate": "04/10/2023"
+      },
+      {
+        "name": "Cláudio Caçapa",
+        "startDate": "01/07/2023",
+        "endDate": "17/07/2023"
+      },
+      {
+        "name": "Luís Castro",
+        "startDate": "29/03/2022",
+        "endDate": "30/06/2023"
+      },
+      {
+        "name": "Enderson Moreira",
+        "startDate": "23/07/2021",
+        "endDate": "11/02/2022"
+      },
+      {
+        "name": "Ricardo Resende",
+        "startDate": "16/07/2021",
+        "endDate": "27/03/2022"
+      },
+      {
+        "name": "Marcelo Chamusca",
+        "startDate": "09/03/2021",
+        "endDate": "13/07/2021"
+      },
+      {
+        "name": "Lúcio Flávio",
+        "startDate": "07/02/2021",
+        "endDate": "27/02/2021"
+      },
+      {
+        "name": "Eduardo Barroca",
+        "startDate": "11/12/2020",
+        "endDate": "06/02/2021"
+      },
+      {
+        "name": "Felipe Lucena",
+        "startDate": "04/12/2020",
+        "endDate": "11/12/2020"
+      },
+      {
+        "name": "Emiliano Díaz",
+        "startDate": "09/11/2020",
+        "endDate": "27/11/2020"
+      },
+      {
+        "name": "Flávio Tenius",
+        "startDate": "30/10/2020",
+        "endDate": "10/11/2020"
+      },
+      {
+        "name": "Bruno Lazaroni",
+        "startDate": "01/10/2020",
+        "endDate": "29/10/2020"
+      },
+      {
+        "name": "Paulo Autuori",
+        "startDate": "12/02/2020",
+        "endDate": "01/10/2020"
+      },
+      {
+        "name": "Alberto Valentim",
+        "startDate": "15/10/2019",
+        "endDate": "10/02/2020"
+      },
+      {
+        "name": "Bruno Lazaroni",
+        "startDate": "08/10/2019",
+        "endDate": "15/10/2019"
+      },
+      {
+        "name": "Eduardo Barroca",
+        "startDate": "14/04/2019",
+        "endDate": "07/10/2019"
+      },
+      {
+        "name": "Zé Ricardo",
+        "startDate": "06/08/2018",
+        "endDate": "12/04/2019"
+      },
+      {
+        "name": "Marcos Paquetá",
+        "startDate": "26/06/2018",
+        "endDate": "01/08/2018"
+      },
+      {
+        "name": "Alberto Valentim",
+        "startDate": "12/02/2018",
+        "endDate": "19/06/2018"
+      },
+      {
+        "name": "Felipe Conceição",
+        "startDate": "01/01/2018",
+        "endDate": "10/02/2018"
+      },
+      {
+        "name": "Jair Ventura",
+        "startDate": "14/08/2016",
+        "endDate": "22/12/2017"
+      },
+      {
+        "name": "Ricardo Gomes",
+        "startDate": "22/07/2015",
+        "endDate": "06/08/2016"
+      },
+      {
+        "name": "Renê Simões",
+        "startDate": "01/01/2015",
+        "endDate": "15/07/2015"
+      },
+      {
+        "name": "Vagner Mancini",
+        "startDate": "15/04/2014",
+        "endDate": "31/12/2014"
+      },
+      {
+        "name": "Eduardo Hungaro",
+        "startDate": "11/12/2013",
+        "endDate": "15/04/2014"
+      },
+      {
+        "name": "Oswaldo de Oliveira",
+        "startDate": "01/01/2012",
+        "endDate": "31/12/2013"
+      },
+      {
+        "name": "Caio Júnior",
+        "startDate": "23/03/2011",
+        "endDate": "17/11/2011"
+      },
+      {
+        "name": "Joel Santana",
+        "startDate": "26/01/2010",
+        "endDate": "22/03/2011"
+      },
+      {
+        "name": "Estevam Soares",
+        "startDate": "12/08/2009",
+        "endDate": "25/01/2010"
+      }
+    ]
+  },
+  {
+    "name": "Corinthians",
+    "coaches": [
+      {
+        "name": "Ramón Díaz",
+        "startDate": "12/07/2024",
+        "endDate": "17/04/2025"
+      },
+      {
+        "name": "Raphael Laruccia",
+        "startDate": "03/07/2024",
+        "endDate": "12/07/2024"
+      },
+      {
+        "name": "Antonio Oliveira",
+        "startDate": "09/02/2024",
+        "endDate": "02/07/2024"
+      },
+      {
+        "name": "Mano Menezes",
+        "startDate": "28/09/2023",
+        "endDate": "05/02/2024"
+      },
+      {
+        "name": "Vanderlei Luxemburgo",
+        "startDate": "02/05/2023",
+        "endDate": "27/09/2023"
+      },
+      {
+        "name": "Cuca",
+        "startDate": "20/04/2023",
+        "endDate": "27/04/2023"
+      },
+      {
+        "name": "Fernando Lázaro",
+        "startDate": "20/11/2022",
+        "endDate": "20/04/2023"
+      },
+      {
+        "name": "Vítor Pereira",
+        "startDate": "23/02/2022",
+        "endDate": "31/12/2022"
+      },
+      {
+        "name": "Fernando Lázaro",
+        "startDate": "05/02/2022",
+        "endDate": "28/02/2022"
+      },
+      {
+        "name": "Sylvinho",
+        "startDate": "28/05/2021",
+        "endDate": "03/02/2022"
+      },
+      {
+        "name": "Fernando Lázaro",
+        "startDate": "18/05/2021",
+        "endDate": "27/05/2021"
+      },
+      {
+        "name": "Vagner Mancini",
+        "startDate": "14/10/2020",
+        "endDate": "17/05/2021"
+      },
+      {
+        "name": "Coelho",
+        "startDate": "11/09/2020",
+        "endDate": "12/10/2020"
+      },
+      {
+        "name": "Tiago Nunes",
+        "startDate": "01/01/2020",
+        "endDate": "11/09/2020"
+      },
+      {
+        "name": "Coelho",
+        "startDate": "04/11/2019",
+        "endDate": "10/12/2019"
+      },
+      {
+        "name": "Fábio Carille",
+        "startDate": "01/01/2019",
+        "endDate": "03/11/2019"
+      },
+      {
+        "name": "Jair Ventura",
+        "startDate": "06/09/2018",
+        "endDate": "03/12/2018"
+      },
+      {
+        "name": "Osmar Loss",
+        "startDate": "23/05/2018",
+        "endDate": "05/09/2018"
+      },
+      {
+        "name": "Fábio Carille",
+        "startDate": "01/01/2017",
+        "endDate": "22/05/2018"
+      },
+      {
+        "name": "Oswaldo de Oliveira",
+        "startDate": "13/10/2016",
+        "endDate": "31/12/2016"
+      },
+      {
+        "name": "Cristóvão Borges",
+        "startDate": "20/06/2016",
+        "endDate": "17/09/2016"
+      },
+      {
+        "name": "Tite",
+        "startDate": "01/01/2015",
+        "endDate": "15/06/2016"
+      },
+      {
+        "name": "Mano Menezes",
+        "startDate": "01/01/2014",
+        "endDate": "31/12/2014"
+      },
+      {
+        "name": "Tite",
+        "startDate": "20/10/2010",
+        "endDate": "11/12/2013"
+      },
+      {
+        "name": "Adilson Batista",
+        "startDate": "26/07/2010",
+        "endDate": "11/10/2010"
+      },
+      {
+        "name": "Mano Menezes",
+        "startDate": "01/01/2008",
+        "endDate": "25/07/2010"
+      }
+    ]
+  },
+  {
+    "name": "Cruzeiro",
+    "coaches": [
+      {
+        "name": "Leonardo Jardim",
+        "startDate": "04/02/2025",
+        "endDate": ""
+      },
+      {
+        "name": "Wesley Carvalho",
+        "startDate": "28/01/2025",
+        "endDate": "09/02/2025"
+      },
+      {
+        "name": "Fernando Diniz",
+        "startDate": "24/09/2024",
+        "endDate": "27/01/2025"
+      },
+      {
+        "name": "Fernando Seabra",
+        "startDate": "09/04/2024",
+        "endDate": "23/09/2024"
+      },
+      {
+        "name": "Nicolás Larcamón",
+        "startDate": "01/01/2024",
+        "endDate": "08/04/2024"
+      },
+      {
+        "name": "Paulo Autuori",
+        "startDate": "14/11/2023",
+        "endDate": "31/12/2023"
+      },
+      {
+        "name": "Zé Ricardo",
+        "startDate": "06/09/2023",
+        "endDate": "13/11/2023"
+      },
+      {
+        "name": "Pepa",
+        "startDate": "20/03/2023",
+        "endDate": "29/08/2023"
+      },
+      {
+        "name": "Paulo Pezzolano",
+        "startDate": "04/01/2022",
+        "endDate": "19/03/2023"
+      },
+      {
+        "name": "Vanderlei Luxemburgo",
+        "startDate": "06/08/2021",
+        "endDate": "28/12/2021"
+      },
+      {
+        "name": "Mozart",
+        "startDate": "11/06/2021",
+        "endDate": "01/08/2021"
+      },
+      {
+        "name": "Felipe Conceição",
+        "startDate": "01/02/2021",
+        "endDate": "10/06/2021"
+      },
+      {
+        "name": "Luiz Felipe Scolari",
+        "startDate": "19/10/2020",
+        "endDate": "25/01/2021"
+      },
+      {
+        "name": "Ney Franco",
+        "startDate": "10/09/2020",
+        "endDate": "11/10/2020"
+      },
+      {
+        "name": "Enderson Moreira",
+        "startDate": "23/03/2020",
+        "endDate": "08/09/2020"
+      },
+      {
+        "name": "Adilson Batista",
+        "startDate": "02/12/2019",
+        "endDate": "15/03/2020"
+      },
+      {
+        "name": "Abel Braga",
+        "startDate": "30/09/2019",
+        "endDate": "29/11/2019"
+      },
+      {
+        "name": "Rogério Ceni",
+        "startDate": "12/08/2019",
+        "endDate": "26/09/2019"
+      },
+      {
+        "name": "Mano Menezes",
+        "startDate": "27/07/2016",
+        "endDate": "08/08/2019"
+      },
+      {
+        "name": "Paulo Bento",
+        "startDate": "16/05/2016",
+        "endDate": "25/07/2016"
+      },
+      {
+        "name": "Deivid",
+        "startDate": "11/12/2015",
+        "endDate": "24/04/2016"
+      },
+      {
+        "name": "Mano Menezes",
+        "startDate": "01/09/2015",
+        "endDate": "31/12/2015"
+      },
+      {
+        "name": "Vanderlei Luxemburgo",
+        "startDate": "02/06/2015",
+        "endDate": "31/08/2015"
+      },
+      {
+        "name": "Marcelo Oliveira",
+        "startDate": "03/12/2012",
+        "endDate": "02/06/2015"
+      },
+      {
+        "name": "Celso Roth",
+        "startDate": "15/05/2012",
+        "endDate": "02/12/2012"
+      },
+      {
+        "name": "Vagner Mancini",
+        "startDate": "26/09/2011",
+        "endDate": "10/05/2012"
+      },
+      {
+        "name": "Émerson Ávila",
+        "startDate": "04/09/2011",
+        "endDate": "25/09/2011"
+      },
+      {
+        "name": "Joel Santana",
+        "startDate": "20/06/2011",
+        "endDate": "02/09/2011"
+      },
+      {
+        "name": "Cuca",
+        "startDate": "08/06/2010",
+        "endDate": "19/06/2011"
+      },
+      {
+        "name": "Adilson Batista",
+        "startDate": "01/01/2008",
+        "endDate": "03/06/2010"
+      }
+    ]
+  },
+  {
+    "name": "Flamengo",
+    "coaches": [
+      {
+        "name": "Cléber dos Santos",
+        "startDate": "01/01/2025",
+        "endDate": "23/01/2025"
+      },
+      {
+        "name": "Filipe Luís",
+        "startDate": "30/09/2024",
+        "endDate": ""
+      },
+      {
+        "name": "Tite",
+        "startDate": "09/10/2023",
+        "endDate": "30/09/2024"
+      },
+      {
+        "name": "Mário Jorge",
+        "startDate": "28/09/2023",
+        "endDate": "08/10/2023"
+      },
+      {
+        "name": "Jorge Sampaoli",
+        "startDate": "17/04/2023",
+        "endDate": "28/09/2023"
+      },
+      {
+        "name": "Vítor Pereira",
+        "startDate": "01/01/2023",
+        "endDate": "10/04/2023"
+      },
+      {
+        "name": "Dorival Júnior",
+        "startDate": "10/06/2022",
+        "endDate": "25/11/2022"
+      },
+      {
+        "name": "Paulo Sousa",
+        "startDate": "29/12/2021",
+        "endDate": "10/06/2022"
+      },
+      {
+        "name": "Maurício Souza",
+        "startDate": "29/11/2021",
+        "endDate": "12/12/2021"
+      },
+      {
+        "name": "Renato Gaúcho",
+        "startDate": "13/07/2021",
+        "endDate": "29/11/2021"
+      },
+      {
+        "name": "Rogério Ceni",
+        "startDate": "10/11/2020",
+        "endDate": "10/07/2021"
+      },
+      {
+        "name": "Domènec Torrent",
+        "startDate": "31/07/2020",
+        "endDate": "09/11/2020"
+      },
+      {
+        "name": "Jorge Jesus",
+        "startDate": "10/06/2019",
+        "endDate": "17/07/2020"
+      },
+      {
+        "name": "Marcelo Salles",
+        "startDate": "29/05/2019",
+        "endDate": "14/06/2019"
+      },
+      {
+        "name": "Abel Braga",
+        "startDate": "01/01/2019",
+        "endDate": "29/05/2019"
+      },
+      {
+        "name": "Dorival Júnior",
+        "startDate": "28/09/2018",
+        "endDate": "31/12/2018"
+      },
+      {
+        "name": "Maurício Barbieri",
+        "startDate": "30/03/2018",
+        "endDate": "28/09/2018"
+      },
+      {
+        "name": "Paulo César Carpegiani",
+        "startDate": "08/01/2018",
+        "endDate": "29/03/2018"
+      },
+      {
+        "name": "Reinaldo Rueda",
+        "startDate": "14/08/2017",
+        "endDate": "07/01/2018"
+      },
+      {
+        "name": "Zé Ricardo",
+        "startDate": "14/07/2016",
+        "endDate": "06/08/2017"
+      },
+      {
+        "name": "Zé Ricardo",
+        "startDate": "26/05/2016",
+        "endDate": "14/07/2016"
+      },
+      {
+        "name": "Muricy Ramalho",
+        "startDate": "08/12/2015",
+        "endDate": "26/05/2016"
+      },
+      {
+        "name": "Oswaldo de Oliveira",
+        "startDate": "20/08/2015",
+        "endDate": "28/11/2015"
+      },
+      {
+        "name": "Cristóvão Borges",
+        "startDate": "27/05/2015",
+        "endDate": "20/08/2015"
+      },
+      {
+        "name": "Vanderlei Luxemburgo",
+        "startDate": "24/07/2014",
+        "endDate": "25/05/2015"
+      },
+      {
+        "name": "Ney Franco",
+        "startDate": "13/05/2014",
+        "endDate": "23/07/2014"
+      },
+      {
+        "name": "Jayme de Almeida Filho",
+        "startDate": "26/09/2013",
+        "endDate": "12/05/2014"
+      },
+      {
+        "name": "Mano Menezes",
+        "startDate": "13/06/2013",
+        "endDate": "19/09/2013"
+      },
+      {
+        "name": "Jorginho",
+        "startDate": "18/03/2013",
+        "endDate": "06/06/2013"
+      },
+      {
+        "name": "Dorival Júnior",
+        "startDate": "23/07/2012",
+        "endDate": "17/03/2013"
+      },
+      {
+        "name": "Joel Santana",
+        "startDate": "03/02/2012",
+        "endDate": "23/07/2012"
+      },
+      {
+        "name": "Vanderlei Luxemburgo",
+        "startDate": "05/10/2010",
+        "endDate": "02/02/2012"
+      },
+      {
+        "name": "Silas",
+        "startDate": "29/08/2010",
+        "endDate": "04/10/2010"
+      },
+      {
+        "name": "Rogério Lourenço",
+        "startDate": "24/04/2010",
+        "endDate": "26/08/2010"
+      },
+      {
+        "name": "Andrade",
+        "startDate": "01/08/2009",
+        "endDate": "23/04/2010"
+      },
+      {
+        "name": "Andrade",
+        "startDate": "24/07/2009",
+        "endDate": "23/04/2010"
+      }
+    ]
+  },
+  {
+    "name": "Fluminense",
+    "coaches": [
+      {
+        "name": "Renato Gaúcho",
+        "startDate": "03/04/2025",
+        "endDate": "31/12/2025"
+      },
+      {
+        "name": "Marcão",
+        "startDate": "01/01/2025",
+        "endDate": "16/01/2025"
+      },
+      {
+        "name": "Mano Menezes",
+        "startDate": "01/07/2024",
+        "endDate": "30/03/2025"
+      },
+      {
+        "name": "Marcão",
+        "startDate": "26/06/2024",
+        "endDate": "03/07/2024"
+      },
+      {
+        "name": "Fernando Diniz",
+        "startDate": "30/04/2022",
+        "endDate": "24/06/2024"
+      },
+      {
+        "name": "Abel Braga",
+        "startDate": "13/12/2021",
+        "endDate": "28/04/2022"
+      },
+      {
+        "name": "Roger Machado",
+        "startDate": "03/03/2021",
+        "endDate": "21/08/2021"
+      },
+      {
+        "name": "Marcão",
+        "startDate": "08/12/2020",
+        "endDate": "28/02/2021"
+      },
+      {
+        "name": "Odair Hellmann",
+        "startDate": "01/01/2020",
+        "endDate": "07/12/2020"
+      },
+      {
+        "name": "Marcão",
+        "startDate": "28/09/2019",
+        "endDate": "31/12/2019"
+      },
+      {
+        "name": "Oswaldo de Oliveira",
+        "startDate": "28/08/2019",
+        "endDate": "27/09/2019"
+      },
+      {
+        "name": "Fernando Diniz",
+        "startDate": "01/01/2019",
+        "endDate": "19/08/2019"
+      },
+      {
+        "name": "Marcelo Oliveira",
+        "startDate": "22/06/2018",
+        "endDate": "29/11/2018"
+      },
+      {
+        "name": "Abel Braga",
+        "startDate": "01/01/2017",
+        "endDate": "16/06/2018"
+      },
+      {
+        "name": "Levir Culpi",
+        "startDate": "04/03/2016",
+        "endDate": "06/11/2016"
+      },
+      {
+        "name": "Eduardo Baptista",
+        "startDate": "17/09/2015",
+        "endDate": "25/02/2016"
+      },
+      {
+        "name": "Enderson Moreira",
+        "startDate": "21/05/2015",
+        "endDate": "17/09/2015"
+      },
+      {
+        "name": "Ricardo Drubscky",
+        "startDate": "24/03/2015",
+        "endDate": "20/05/2015"
+      },
+      {
+        "name": "Cristóvão Borges",
+        "startDate": "02/04/2014",
+        "endDate": "23/03/2015"
+      },
+      {
+        "name": "Renato Gaúcho",
+        "startDate": "01/01/2014",
+        "endDate": "02/04/2014"
+      },
+      {
+        "name": "Dorival Júnior",
+        "startDate": "12/11/2013",
+        "endDate": "26/12/2013"
+      },
+      {
+        "name": "Vanderlei Luxemburgo",
+        "startDate": "30/07/2013",
+        "endDate": "11/11/2013"
+      },
+      {
+        "name": "Abel Braga",
+        "startDate": "08/06/2011",
+        "endDate": "29/07/2013"
+      },
+      {
+        "name": "Enderson Moreira",
+        "startDate": "21/03/2011",
+        "endDate": "31/05/2011"
+      },
+      {
+        "name": "Muricy Ramalho",
+        "startDate": "25/04/2010",
+        "endDate": "13/03/2011"
+      },
+      {
+        "name": "Cuca",
+        "startDate": "01/09/2009",
+        "endDate": "19/04/2010"
+      }
+    ]
+  },
+  {
+    "name": "Grêmio",
+    "coaches": [
+      {
+        "name": "Gustavo Quinteros",
+        "startDate": "01/01/2025",
+        "endDate": "16/04/2025"
+      },
+      {
+        "name": "Renato Gaúcho",
+        "startDate": "08/09/2022",
+        "endDate": "10/12/2024"
+      },
+      {
+        "name": "Roger Machado",
+        "startDate": "14/02/2022",
+        "endDate": "01/09/2022"
+      },
+      {
+        "name": "Vagner Mancini",
+        "startDate": "15/10/2021",
+        "endDate": "14/02/2022"
+      },
+      {
+        "name": "Luiz Felipe Scolari",
+        "startDate": "09/07/2021",
+        "endDate": "11/10/2021"
+      },
+      {
+        "name": "Tiago Nunes",
+        "startDate": "22/04/2021",
+        "endDate": "05/07/2021"
+      },
+      {
+        "name": "Thiago Gomes",
+        "startDate": "16/04/2021",
+        "endDate": "21/04/2021"
+      },
+      {
+        "name": "Renato Gaúcho",
+        "startDate": "18/09/2016",
+        "endDate": "15/04/2021"
+      },
+      {
+        "name": "Roger Machado",
+        "startDate": "26/05/2015",
+        "endDate": "14/09/2016"
+      },
+      {
+        "name": "Luiz Felipe Scolari",
+        "startDate": "29/07/2014",
+        "endDate": "19/05/2015"
+      },
+      {
+        "name": "Enderson Moreira",
+        "startDate": "16/12/2013",
+        "endDate": "27/07/2014"
+      },
+      {
+        "name": "Renato Gaúcho",
+        "startDate": "01/07/2013",
+        "endDate": "31/12/2013"
+      },
+      {
+        "name": "Vanderlei Luxemburgo",
+        "startDate": "21/02/2012",
+        "endDate": "29/06/2013"
+      },
+      {
+        "name": "Caio Júnior",
+        "startDate": "06/12/2011",
+        "endDate": "20/02/2012"
+      },
+      {
+        "name": "Celso Roth",
+        "startDate": "05/08/2011",
+        "endDate": "05/12/2011"
+      },
+      {
+        "name": "Julinho Camargo",
+        "startDate": "02/07/2011",
+        "endDate": "04/08/2011"
+      },
+      {
+        "name": "Renato Gaúcho",
+        "startDate": "11/08/2010",
+        "endDate": "30/06/2011"
+      },
+      {
+        "name": "Silas",
+        "startDate": "08/12/2009",
+        "endDate": "09/08/2010"
+      }
+    ]
+  },
+  {
+    "name": "Internacional",
+    "coaches": [
+      {
+        "name": "Roger Machado",
+        "startDate": "18/07/2024",
+        "endDate": ""
+      },
+      {
+        "name": "Pablo de Toledo",
+        "startDate": "12/07/2024",
+        "endDate": "18/07/2024"
+      },
+      {
+        "name": "Eduardo Coudet",
+        "startDate": "20/07/2023",
+        "endDate": "11/07/2024"
+      },
+      {
+        "name": "Mano Menezes",
+        "startDate": "18/04/2022",
+        "endDate": "17/07/2023"
+      },
+      {
+        "name": "Alexander Medina",
+        "startDate": "01/01/2022",
+        "endDate": "15/04/2022"
+      },
+      {
+        "name": "Diego Aguirre",
+        "startDate": "23/06/2021",
+        "endDate": "15/12/2021"
+      },
+      {
+        "name": "Osmar Loss",
+        "startDate": "11/06/2021",
+        "endDate": "22/06/2021"
+      },
+      {
+        "name": "Miguel Ángel Ramírez",
+        "startDate": "02/03/2021",
+        "endDate": "11/06/2021"
+      },
+      {
+        "name": "Abel Braga",
+        "startDate": "10/11/2020",
+        "endDate": "28/02/2021"
+      },
+      {
+        "name": "Eduardo Coudet",
+        "startDate": "01/01/2020",
+        "endDate": "09/11/2020"
+      },
+      {
+        "name": "Zé Ricardo",
+        "startDate": "24/10/2019",
+        "endDate": "31/12/2019"
+      },
+      {
+        "name": "Ricardo Colbachini",
+        "startDate": "11/10/2019",
+        "endDate": "20/10/2019"
+      },
+      {
+        "name": "Odair Hellmann",
+        "startDate": "25/11/2017",
+        "endDate": "10/10/2019"
+      },
+      {
+        "name": "Odair Hellmann",
+        "startDate": "12/11/2017",
+        "endDate": "25/11/2017"
+      },
+      {
+        "name": "Guto Ferreira",
+        "startDate": "30/05/2017",
+        "endDate": "11/11/2017"
+      },
+      {
+        "name": "Antônio Carlos Zago",
+        "startDate": "12/12/2016",
+        "endDate": "28/05/2017"
+      },
+      {
+        "name": "Lisca",
+        "startDate": "18/11/2016",
+        "endDate": "11/12/2016"
+      },
+      {
+        "name": "Celso Roth",
+        "startDate": "08/08/2016",
+        "endDate": "17/11/2016"
+      },
+      {
+        "name": "Falcão",
+        "startDate": "13/07/2016",
+        "endDate": "08/08/2016"
+      },
+      {
+        "name": "Argel Fuchs",
+        "startDate": "14/08/2015",
+        "endDate": "10/07/2016"
+      },
+      {
+        "name": "Diego Aguirre",
+        "startDate": "01/01/2015",
+        "endDate": "06/08/2015"
+      },
+      {
+        "name": "Abel Braga",
+        "startDate": "13/12/2013",
+        "endDate": "31/12/2014"
+      },
+      {
+        "name": "Clemer",
+        "startDate": "04/10/2013",
+        "endDate": "12/12/2013"
+      },
+      {
+        "name": "Dunga",
+        "startDate": "12/12/2012",
+        "endDate": "04/10/2013"
+      },
+      {
+        "name": "Fernandão",
+        "startDate": "21/07/2012",
+        "endDate": "20/11/2012"
+      },
+      {
+        "name": "Dorival Júnior",
+        "startDate": "12/08/2011",
+        "endDate": "20/07/2012"
+      },
+      {
+        "name": "Falcão",
+        "startDate": "11/04/2011",
+        "endDate": "18/07/2011"
+      },
+      {
+        "name": "Celso Roth",
+        "startDate": "13/06/2010",
+        "endDate": "08/04/2011"
+      },
+      {
+        "name": "Enderson Moreira",
+        "startDate": "28/05/2010",
+        "endDate": "12/06/2010"
+      },
+      {
+        "name": "Jorge Fossati",
+        "startDate": "01/01/2010",
+        "endDate": "29/05/2010"
+      }
+    ]
+  },
+  {
+    "name": "Palmeiras",
+    "coaches": [
+      {
+        "name": "Abel Ferreira",
+        "startDate": "04/11/2020",
+        "endDate": ""
+      },
+      {
+        "name": "Andrey Lopes",
+        "startDate": "16/10/2020",
+        "endDate": "04/11/2020"
+      },
+      {
+        "name": "Vanderlei Luxemburgo",
+        "startDate": "01/01/2020",
+        "endDate": "14/10/2020"
+      },
+      {
+        "name": "Andrey Lopes",
+        "startDate": "03/12/2019",
+        "endDate": "09/12/2019"
+      },
+      {
+        "name": "Mano Menezes",
+        "startDate": "07/09/2019",
+        "endDate": "02/12/2019"
+      },
+      {
+        "name": "Luiz Felipe Scolari",
+        "startDate": "26/07/2018",
+        "endDate": "03/09/2019"
+      },
+      {
+        "name": "Roger Machado",
+        "startDate": "01/01/2018",
+        "endDate": "26/07/2018"
+      },
+      {
+        "name": "Alberto Valentim",
+        "startDate": "13/10/2017",
+        "endDate": "31/12/2017"
+      },
+      {
+        "name": "Cuca",
+        "startDate": "09/05/2017",
+        "endDate": "13/10/2017"
+      },
+      {
+        "name": "Eduardo Baptista",
+        "startDate": "01/01/2017",
+        "endDate": "04/05/2017"
+      },
+      {
+        "name": "Cuca",
+        "startDate": "14/03/2016",
+        "endDate": "31/12/2016"
+      },
+      {
+        "name": "Marcelo Oliveira",
+        "startDate": "15/06/2015",
+        "endDate": "10/03/2016"
+      },
+      {
+        "name": "Oswaldo de Oliveira",
+        "startDate": "01/01/2015",
+        "endDate": "08/06/2015"
+      },
+      {
+        "name": "Dorival Júnior",
+        "startDate": "03/09/2014",
+        "endDate": "08/12/2014"
+      },
+      {
+        "name": "Ricardo Gareca",
+        "startDate": "21/05/2014",
+        "endDate": "01/09/2014"
+      },
+      {
+        "name": "Alberto Valentim",
+        "startDate": "09/05/2014",
+        "endDate": "02/06/2014"
+      },
+      {
+        "name": "Gilson Kleina",
+        "startDate": "19/09/2012",
+        "endDate": "08/05/2014"
+      },
+      {
+        "name": "Flávio Teixeira",
+        "startDate": "20/01/2012",
+        "endDate": "30/01/2012"
+      },
+      {
+        "name": "Luiz Felipe Scolari",
+        "startDate": "13/06/2010",
+        "endDate": "13/09/2012"
+      },
+      {
+        "name": "Antônio Carlos Zago",
+        "startDate": "19/02/2010",
+        "endDate": "18/05/2010"
+      },
+      {
+        "name": "Muricy Ramalho",
+        "startDate": "21/07/2009",
+        "endDate": "18/02/2010"
+      }
+    ]
+  },
+  {
+    "name": "Santos",
+    "coaches": [
+      {
+        "name": "César Sampaio",
+        "startDate": "15/04/2025",
+        "endDate": ""
+      },
+      {
+        "name": "Pedro Caixinha",
+        "startDate": "01/01/2025",
+        "endDate": "14/04/2025"
+      },
+      {
+        "name": "Fábio Carille",
+        "startDate": "01/01/2024",
+        "endDate": "18/11/2024"
+      },
+      {
+        "name": "Marcelo Fernandes",
+        "startDate": "17/09/2023",
+        "endDate": "08/12/2023"
+      },
+      {
+        "name": "Diego Aguirre",
+        "startDate": "07/08/2023",
+        "endDate": "15/09/2023"
+      },
+      {
+        "name": "Paulo Turra",
+        "startDate": "28/06/2023",
+        "endDate": "06/08/2023"
+      },
+      {
+        "name": "Odair Hellmann",
+        "startDate": "16/11/2022",
+        "endDate": "22/06/2023"
+      },
+      {
+        "name": "Orlando Ribeiro",
+        "startDate": "12/09/2022",
+        "endDate": "15/11/2022"
+      },
+      {
+        "name": "Lisca",
+        "startDate": "22/07/2022",
+        "endDate": "12/09/2022"
+      },
+      {
+        "name": "Marcelo Fernandes",
+        "startDate": "07/07/2022",
+        "endDate": "27/07/2022"
+      },
+      {
+        "name": "Fabián Bustos",
+        "startDate": "04/03/2022",
+        "endDate": "07/07/2022"
+      },
+      {
+        "name": "Fábio Carille",
+        "startDate": "10/09/2021",
+        "endDate": "18/02/2022"
+      },
+      {
+        "name": "Fernando Diniz",
+        "startDate": "10/05/2021",
+        "endDate": "05/09/2021"
+      },
+      {
+        "name": "Marcelo Fernandes",
+        "startDate": "27/04/2021",
+        "endDate": "10/05/2021"
+      },
+      {
+        "name": "Ariel Holan",
+        "startDate": "27/02/2021",
+        "endDate": "26/04/2021"
+      },
+      {
+        "name": "Cuca",
+        "startDate": "07/08/2020",
+        "endDate": "22/02/2021"
+      },
+      {
+        "name": "Jesualdo Ferreira",
+        "startDate": "01/01/2020",
+        "endDate": "05/08/2020"
+      },
+      {
+        "name": "Jorge Sampaoli",
+        "startDate": "17/12/2018",
+        "endDate": "09/12/2019"
+      },
+      {
+        "name": "Cuca",
+        "startDate": "31/07/2018",
+        "endDate": "03/12/2018"
+      },
+      {
+        "name": "Serginho Chulapa",
+        "startDate": "23/07/2018",
+        "endDate": "31/07/2018"
+      },
+      {
+        "name": "Jair Ventura",
+        "startDate": "04/01/2018",
+        "endDate": "23/07/2018"
+      },
+      {
+        "name": "Elano",
+        "startDate": "30/10/2017",
+        "endDate": "31/12/2017"
+      },
+      {
+        "name": "Levir Culpi",
+        "startDate": "06/06/2017",
+        "endDate": "29/10/2017"
+      },
+      {
+        "name": "Dorival Júnior",
+        "startDate": "09/07/2015",
+        "endDate": "04/06/2017"
+      },
+      {
+        "name": "Marcelo Fernandes",
+        "startDate": "06/03/2015",
+        "endDate": "09/07/2015"
+      },
+      {
+        "name": "Enderson Moreira",
+        "startDate": "02/09/2014",
+        "endDate": "05/03/2015"
+      },
+      {
+        "name": "Oswaldo de Oliveira",
+        "startDate": "01/01/2014",
+        "endDate": "02/09/2014"
+      },
+      {
+        "name": "Claudinei Oliveira",
+        "startDate": "01/06/2013",
+        "endDate": "31/12/2013"
+      },
+      {
+        "name": "Muricy Ramalho",
+        "startDate": "08/04/2011",
+        "endDate": "31/05/2013"
+      },
+      {
+        "name": "Marcelo Martelotte",
+        "startDate": "01/03/2011",
+        "endDate": "07/04/2011"
+      },
+      {
+        "name": "Adilson Batista",
+        "startDate": "01/01/2011",
+        "endDate": "27/02/2011"
+      },
+      {
+        "name": "Marcelo Martelotte",
+        "startDate": "22/09/2010",
+        "endDate": "31/12/2010"
+      },
+      {
+        "name": "Dorival Júnior",
+        "startDate": "12/12/2009",
+        "endDate": "22/09/2010"
+      }
+    ]
+  },
+  {
+    "name": "São Paulo",
+    "coaches": [
+      {
+        "name": "Luis Zubeldía",
+        "startDate": "22/04/2024",
+        "endDate": ""
+      },
+      {
+        "name": "Thiago Carpini",
+        "startDate": "11/01/2024",
+        "endDate": "18/04/2024"
+      },
+      {
+        "name": "Dorival Júnior",
+        "startDate": "20/04/2023",
+        "endDate": "07/01/2024"
+      },
+      {
+        "name": "Rogério Ceni",
+        "startDate": "13/10/2021",
+        "endDate": "19/04/2023"
+      },
+      {
+        "name": "Hernán Crespo",
+        "startDate": "26/02/2021",
+        "endDate": "13/10/2021"
+      },
+      {
+        "name": "Vizolli",
+        "startDate": "05/02/2021",
+        "endDate": "25/02/2021"
+      },
+      {
+        "name": "Fernando Diniz",
+        "startDate": "27/09/2019",
+        "endDate": "01/02/2021"
+      },
+      {
+        "name": "Cuca",
+        "startDate": "25/04/2019",
+        "endDate": "26/09/2019"
+      },
+      {
+        "name": "Vagner Mancini",
+        "startDate": "14/02/2019",
+        "endDate": "25/04/2019"
+      },
+      {
+        "name": "André Jardine",
+        "startDate": "25/11/2018",
+        "endDate": "14/02/2019"
+      },
+      {
+        "name": "André Jardine",
+        "startDate": "12/11/2018",
+        "endDate": "25/11/2018"
+      },
+      {
+        "name": "Diego Aguirre",
+        "startDate": "12/03/2018",
+        "endDate": "11/11/2018"
+      },
+      {
+        "name": "André Jardine",
+        "startDate": "10/03/2018",
+        "endDate": "16/03/2018"
+      },
+      {
+        "name": "Dorival Júnior",
+        "startDate": "05/07/2017",
+        "endDate": "09/03/2018"
+      },
+      {
+        "name": "Rogério Ceni",
+        "startDate": "01/01/2017",
+        "endDate": "03/07/2017"
+      },
+      {
+        "name": "Ricardo Gomes",
+        "startDate": "15/08/2016",
+        "endDate": "23/11/2016"
+      },
+      {
+        "name": "André Jardine",
+        "startDate": "01/08/2016",
+        "endDate": "14/08/2016"
+      },
+      {
+        "name": "Edgardo Bauza",
+        "startDate": "01/01/2016",
+        "endDate": "31/07/2016"
+      },
+      {
+        "name": "Doriva",
+        "startDate": "07/10/2015",
+        "endDate": "09/11/2015"
+      },
+      {
+        "name": "Juan Carlos Osorio",
+        "startDate": "26/05/2015",
+        "endDate": "06/10/2015"
+      },
+      {
+        "name": "Milton Cruz",
+        "startDate": "07/04/2015",
+        "endDate": "25/05/2015"
+      },
+      {
+        "name": "Muricy Ramalho",
+        "startDate": "10/09/2013",
+        "endDate": "06/04/2015"
+      },
+      {
+        "name": "Paulo Autuori",
+        "startDate": "11/07/2013",
+        "endDate": "09/09/2013"
+      },
+      {
+        "name": "Ney Franco",
+        "startDate": "06/07/2012",
+        "endDate": "05/07/2013"
+      },
+      {
+        "name": "Emerson Leão",
+        "startDate": "24/10/2011",
+        "endDate": "26/06/2012"
+      },
+      {
+        "name": "Adilson Batista",
+        "startDate": "17/07/2011",
+        "endDate": "17/10/2011"
+      },
+      {
+        "name": "Paulo César Carpegiani",
+        "startDate": "04/10/2010",
+        "endDate": "07/07/2011"
+      },
+      {
+        "name": "Sérgio Baresi",
+        "startDate": "11/08/2010",
+        "endDate": "03/10/2010"
+      },
+      {
+        "name": "Ricardo Gomes",
+        "startDate": "21/06/2009",
+        "endDate": "06/08/2010"
+      }
+    ]
+  },
+  {
+    "name": "Vasco da Gama",
+    "coaches": [
+      {
+        "name": "Fábio Carille",
+        "startDate": "20/12/2024",
+        "endDate": ""
+      },
+      {
+        "name": "Felipe Loureiro",
+        "startDate": "29/11/2024",
+        "endDate": "09/12/2024"
+      },
+      {
+        "name": "Rafael Paiva",
+        "startDate": "21/06/2024",
+        "endDate": "25/11/2024"
+      },
+      {
+        "name": "Álvaro Pacheco",
+        "startDate": "21/05/2024",
+        "endDate": "20/06/2024"
+      },
+      {
+        "name": "Rafael Paiva",
+        "startDate": "30/04/2024",
+        "endDate": "31/05/2024"
+      },
+      {
+        "name": "Ramón Díaz",
+        "startDate": "17/07/2023",
+        "endDate": "28/04/2024"
+      },
+      {
+        "name": "William Batista",
+        "startDate": "24/06/2023",
+        "endDate": "16/07/2023"
+      },
+      {
+        "name": "Maurício Barbieri",
+        "startDate": "06/12/2022",
+        "endDate": "23/06/2023"
+      },
+      {
+        "name": "Jorginho",
+        "startDate": "06/09/2022",
+        "endDate": "09/11/2022"
+      },
+      {
+        "name": "Emilio Faro",
+        "startDate": "25/07/2022",
+        "endDate": "05/09/2022"
+      },
+      {
+        "name": "Maurício Souza",
+        "startDate": "15/06/2022",
+        "endDate": "24/07/2022"
+      },
+      {
+        "name": "Zé Ricardo",
+        "startDate": "10/01/2022",
+        "endDate": "05/06/2022"
+      },
+      {
+        "name": "Fabio Cortez",
+        "startDate": "12/11/2021",
+        "endDate": "01/12/2021"
+      },
+      {
+        "name": "Fernando Diniz",
+        "startDate": "14/09/2021",
+        "endDate": "11/11/2021"
+      },
+      {
+        "name": "Lisca",
+        "startDate": "23/07/2021",
+        "endDate": "12/09/2021"
+      },
+      {
+        "name": "Marcelo Cabo",
+        "startDate": "02/03/2021",
+        "endDate": "19/07/2021"
+      },
+      {
+        "name": "Vanderlei Luxemburgo",
+        "startDate": "04/01/2021",
+        "endDate": "27/02/2021"
+      },
+      {
+        "name": "Ricardo Sá Pinto",
+        "startDate": "14/10/2020",
+        "endDate": "29/12/2020"
+      },
+      {
+        "name": "Alexandre Grasseli",
+        "startDate": "08/10/2020",
+        "endDate": "19/10/2020"
+      },
+      {
+        "name": "Ramon Menezes",
+        "startDate": "30/03/2020",
+        "endDate": "08/10/2020"
+      },
+      {
+        "name": "Abel Braga",
+        "startDate": "16/12/2019",
+        "endDate": "16/03/2020"
+      },
+      {
+        "name": "Vanderlei Luxemburgo",
+        "startDate": "13/05/2019",
+        "endDate": "31/12/2019"
+      },
+      {
+        "name": "Marcos Valadares",
+        "startDate": "22/04/2019",
+        "endDate": "13/05/2019"
+      },
+      {
+        "name": "Alberto Valentim",
+        "startDate": "27/08/2018",
+        "endDate": "21/04/2019"
+      },
+      {
+        "name": "Valdir Bigode",
+        "startDate": "20/08/2018",
+        "endDate": "27/08/2018"
+      },
+      {
+        "name": "Jorginho",
+        "startDate": "06/06/2018",
+        "endDate": "13/08/2018"
+      },
+      {
+        "name": "Zé Ricardo",
+        "startDate": "23/08/2017",
+        "endDate": "03/06/2018"
+      },
+      {
+        "name": "Milton Mendes",
+        "startDate": "19/03/2017",
+        "endDate": "21/08/2017"
+      },
+      {
+        "name": "Cristóvão Borges",
+        "startDate": "29/11/2016",
+        "endDate": "17/03/2017"
+      },
+      {
+        "name": "Jorginho",
+        "startDate": "16/08/2015",
+        "endDate": "28/11/2016"
+      },
+      {
+        "name": "Celso Roth",
+        "startDate": "22/06/2015",
+        "endDate": "15/08/2015"
+      },
+      {
+        "name": "Doriva",
+        "startDate": "14/12/2014",
+        "endDate": "21/06/2015"
+      },
+      {
+        "name": "Joel Santana",
+        "startDate": "06/09/2014",
+        "endDate": "10/12/2014"
+      },
+      {
+        "name": "Adilson Batista",
+        "startDate": "30/10/2013",
+        "endDate": "30/08/2014"
+      },
+      {
+        "name": "Dorival Júnior",
+        "startDate": "11/07/2013",
+        "endDate": "28/10/2013"
+      },
+      {
+        "name": "Paulo Autuori",
+        "startDate": "22/03/2013",
+        "endDate": "09/07/2013"
+      },
+      {
+        "name": "Gaúcho",
+        "startDate": "06/11/2012",
+        "endDate": "21/03/2013"
+      },
+      {
+        "name": "Marcelo Oliveira",
+        "startDate": "13/09/2012",
+        "endDate": "05/11/2012"
+      },
+      {
+        "name": "Cristóvão Borges",
+        "startDate": "29/08/2011",
+        "endDate": "10/09/2012"
+      },
+      {
+        "name": "Ricardo Gomes",
+        "startDate": "02/02/2011",
+        "endDate": "28/08/2012"
+      },
+      {
+        "name": "Paulo César Gusmão",
+        "startDate": "13/06/2010",
+        "endDate": "28/01/2011"
+      },
+      {
+        "name": "Celso Roth",
+        "startDate": "18/05/2010",
+        "endDate": "12/06/2010"
+      },
+      {
+        "name": "Gaúcho",
+        "startDate": "30/03/2010",
+        "endDate": "18/05/2010"
+      },
+      {
+        "name": "Vagner Mancini",
+        "startDate": "12/12/2009",
+        "endDate": "26/03/2010"
+      }
+    ]
+  }
+]
