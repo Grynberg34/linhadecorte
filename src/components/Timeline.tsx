@@ -4,7 +4,9 @@ import Slider from '@mui/material/Slider';
 import { RootState, AppDispatch } from '../store/store';
 import { setSelectedDate, setActiveCoaches } from '../store/slices/timelineSlice';
 import { generateMarks } from '../utils/timelineUtils';
-import { findCoachesForDate } from '../store/selectors/timelineSelectors';
+import { categorizeCoachesByDays } from '../utils/dateUtils';
+import CoachesList from './CoachesList';
+import { findCoachesForDate } from '@/store/selectors/timelineSelectors';
 
 const TimelineComponent = () => {
   const dispatch: AppDispatch = useDispatch();
@@ -23,6 +25,13 @@ const TimelineComponent = () => {
     dispatch(setActiveCoaches(activeCoaches));
   }, [selectedDate, teams, dispatch]);
 
+  const categories = categorizeCoachesByDays(activeCoaches, selectedDate);
+
+  const formattedDate = new Date(selectedDate).toLocaleString('default', {
+    month: 'long',
+    year: 'numeric',
+  });
+
   return (
     <div>
       <Slider
@@ -38,19 +47,12 @@ const TimelineComponent = () => {
           return `${date.toLocaleString('default', { month: 'short' })} ${date.getFullYear()}`;
         }}
       />
-      <div>
-        {activeCoaches.length > 0 ? (
-          <ul>
-            {activeCoaches.map((coach, index) => (
-              <li key={index}>
-                <strong>{coach.name}</strong> (Team: {coach.team}, Start: {coach.startDate}, End: {coach.endDate || 'Present'})
-              </li>
-            ))}
-          </ul>
-        ) : (
-          <div></div>
-        )}
-      </div>
+
+      <h1>{formattedDate}</h1>
+
+      <h2>número de dias relativo ao primeiro dia do mês</h2>
+
+      <CoachesList categories={categories} />
     </div>
   );
 };
