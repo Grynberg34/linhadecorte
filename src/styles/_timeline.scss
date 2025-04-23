@@ -38,3 +38,25 @@
 .MuiSlider-markLabel {
     color: colors.$lightBlue !important;
 }
+
+
+@media only screen and (max-width: 767px) {
+
+    .timeline {
+    
+        .timeline__header {
+            position: sticky;
+            top: 0;
+            z-index: 99;
+            background-color: colors.$darkGreen;
+            padding-top: 4vh;
+            padding-bottom: 4vh;
+        }
+    
+        .timeline__title {
+            margin: 0;
+            font-size: 5vw;
+        }
+    }
+
+}

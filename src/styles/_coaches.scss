@@ -99,3 +99,74 @@
     }
 
 }
+
+
+@media only screen and (max-width: 767px) {
+
+    .coaches {
+        padding-bottom: 10vh;
+    
+        .coaches__zoom {
+            position: sticky;
+            top: 12.5vh;
+            padding-top: 4vh;
+            padding-bottom: 4vh;
+    
+            .coaches__zoom__button {
+                width: 12vw;
+                padding-left: 4vw;
+                padding-right: 4vw;
+                border-radius: 2vw;
+                font-size: 4vw;
+            }
+    
+            .coaches__zoom__text {
+                font-size: 4vw;
+                margin-left: 4vw;
+                margin-right: 4vw;
+            }
+        }
+        
+        .coaches__list__section {
+            padding-top: 3vh;
+            padding-bottom: 3vh;
+            min-height: 10vh;
+            border-bottom: 1vw solid colors.$orange;
+    
+            .coaches__list__section__text {
+                font-size: 4vw;
+            }
+    
+            .coaches__list__section__item {
+                padding: 3vw;
+                margin-bottom: 2vh;
+                border-radius: 2vw;
+    
+                .coaches__list__section__item__title {
+                    margin-bottom: 1vh;
+                    font-size: 3vw;
+                    font-weight: 700;
+                    line-height: 1.5;
+                    height: 4vh;
+                }
+    
+                .coaches__list__section__item__img {
+                    width: 100%;
+    
+                }
+    
+                .coaches__list__section__item__subtitle {
+                    margin-bottom: 1vh;
+                    font-size: 3vw;
+                }
+    
+                .coaches__list__section__item__text {
+                    margin-bottom: 1vh;
+                    font-size: 2.5vw;
+                }
+            }
+        }
+    
+    }
+
+}

@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import React, { useEffect, useState } from 'react';
 import { useSelector, useDispatch } from 'react-redux';
 import Slider from '@mui/material/Slider';
 import { RootState, AppDispatch } from '../store/store';
@@ -10,15 +10,29 @@ import { findCoachesForDate } from '@/store/selectors/timelineSelectors';
 
 const TimelineComponent = () => {
   const dispatch: AppDispatch = useDispatch();
+  const [isMobile, setIsMobile] = useState(false);
 
   const { teams } = useSelector((state: RootState) => state.coaches);
   const { selectedDate, activeCoaches } = useSelector((state: RootState) => state.timeline);
 
-  const marks = generateMarks();
+  const marks = generateMarks(isMobile);
 
   const handleChange = (event: Event, value: number) => {
     dispatch(setSelectedDate(value));
   };
+
+  useEffect(() => {
+    const handleResize = () => {
+      setIsMobile(window.innerWidth <= 768);
+    };
+
+    handleResize();
+    window.addEventListener('resize', handleResize);
+
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
+
+  
 
   useEffect(() => {
     const activeCoaches = findCoachesForDate(teams, selectedDate);
