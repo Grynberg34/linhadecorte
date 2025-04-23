@@ -1,0 +1,140 @@
+@use 'font';
+@use 'colors';
+
+.Athletico-PR {
+    background-color: colors.$t_black;
+    color: colors.$t_red2;
+    border: 0.25vw solid colors.$t_red;
+}
+
+.Atlético-MG {
+    background-color: colors.$t_black;
+    color: colors.$t_white;
+    border: 0.25vw solid colors.$t_yellow;
+
+}
+
+.Bahia {
+    background-color: colors.$t_blue2;
+    color: colors.$t_white;
+    border: 0.25vw solid colors.$t_red;
+}
+
+.Botafogo {
+    background-color: colors.$t_grey1;
+    color: colors.$t_white;
+    border: 0.25vw solid colors.$t_white;
+}
+
+.Ceará {
+    background-color: colors.$t_black;
+    color: colors.$t_white;
+    border: 0.25vw solid colors.$t_grey1;
+}
+
+.Corinthians {
+    background-color: colors.$t_white;
+    color: colors.$t_black;
+    border: 0.25vw solid colors.$t_black;
+}
+
+.Coritiba {
+    background-color: colors.$t_green1;
+    color: colors.$t_white;
+    border: 0.25vw solid colors.$t_green2;
+}
+
+.Cruzeiro {
+    background-color: colors.$t_blue;
+    color: colors.$t_white;
+    border: 0.25vw solid colors.$t_white;
+}
+
+.Flamengo {
+    background-color: colors.$t_red;
+    color: colors.$t_black;
+    border: 0.25vw solid colors.$t_black;
+}
+
+.Fluminense {
+    background-color: colors.$t_red3;
+    color: colors.$t_white;
+    border: 0.25vw solid colors.$t_green1;
+}
+
+.Fortaleza {
+    background-color: colors.$t_blue;
+    color: colors.$t_white;
+    border: 0.25vw solid colors.$t_red;
+}
+
+.Grêmio {
+    background-color: colors.$t_blue2;
+    color: colors.$t_black;
+    border: 0.25vw solid colors.$t_white;
+}
+
+.Internacional {
+    background-color: colors.$t_red2;
+    color: colors.$t_white;
+    border: 0.25vw solid colors.$t_white;
+}
+
+.Palmeiras {
+    background-color: colors.$t_green1;
+    color: colors.$t_white;
+    border: 0.25vw solid colors.$t_white;
+}
+
+.Santos {
+    background-color: colors.$t_white;
+    color: colors.$t_black;
+    border: 0.25vw solid colors.$t_yellow;
+}
+.São-Paulo {
+    background-color: colors.$t_red;
+    color: colors.$t_white;
+    border: 0.25vw solid colors.$t_black;
+}
+
+.Sport {
+    background-color: colors.$t_red;
+    color: colors.$t_black;
+    border: 0.25vw solid colors.$t_yellow;
+}
+
+.Vasco {
+    background-color: colors.$t_black;
+    color: colors.$t_white;
+    border: 0.25vw solid colors.$t_white;
+}
+
+.Vitória {
+    background-color: colors.$t_red;
+    color: colors.$t_black;
+    border: 0.25vw solid colors.$t_white;
+}
+
+@media only screen and (max-width: 767px) {
+  .Athletico-PR,
+  .Atlético-MG,
+  .Bahia,
+  .Botafogo,
+  .Ceará,
+  .Corinthians,
+  .Coritiba,
+  .Cruzeiro,
+  .Flamengo,
+  .Fluminense,
+  .Fortaleza,
+  .Grêmio,
+  .Internacional,
+  .Palmeiras,
+  .Santos,
+  .São-Paulo,
+  .Sport,
+  .Vasco,
+  .Vitória {
+    border-width: 1vw;
+  }
+}

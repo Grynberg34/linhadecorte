@@ -1,6 +1,10 @@
 @use 'font';
 @use 'colors';
 @use 'home';
+@use 'header';
+@use 'timeline';
+@use 'coaches';
+@use 'teams';
 
 body {
     margin: 0;

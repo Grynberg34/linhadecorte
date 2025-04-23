@@ -3,7 +3,7 @@ import Provider from "@/store/provider";
 import "../styles/global.scss";
 
 export const metadata: Metadata = {
-  title: "Linha do Tempo - Técnicos",
+  title: "Linha de Corte",
   description:
     "",
 };

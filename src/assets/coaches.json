@@ -1,6 +1,6 @@
 [
   {
-    "name": "Atlético Mineiro",
+    "name": "Atlético-MG",
     "coaches": [
       {
         "name": "Cuca",
@@ -191,11 +191,6 @@
         "name": "Paulo Autuori",
         "startDate": "23/10/2020",
         "endDate": "12/03/2021"
-      },
-      {
-        "name": "Eduardo Barros",
-        "startDate": "28/08/2020",
-        "endDate": "23/10/2020"
       },
       {
         "name": "Dorival Júnior",
@@ -426,11 +421,6 @@
         "name": "Enderson Moreira",
         "startDate": "23/07/2021",
         "endDate": "11/02/2022"
-      },
-      {
-        "name": "Ricardo Resende",
-        "startDate": "16/07/2021",
-        "endDate": "27/03/2022"
       },
       {
         "name": "Marcelo Chamusca",
@@ -1735,7 +1725,7 @@
     ]
   },
   {
-    "name": "São Paulo",
+    "name": "São-Paulo",
     "coaches": [
       {
         "name": "Luis Zubeldía",
@@ -1990,7 +1980,7 @@
     ]
   },
   {
-    "name": "Vasco da Gama",
+    "name": "Vasco",
     "coaches": [
       {
         "name": "Fábio Carille",

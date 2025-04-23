@@ -2,6 +2,8 @@
 @use 'colors';
 
 .home {
-    padding-left: 10vw;
-    padding-right: 10vw;
+    background-color: colors.$darkGreen;
+    padding-left: 15vw;
+    padding-right: 15vw;
+    min-height: 100vh;
 }

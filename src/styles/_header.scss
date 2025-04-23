@@ -1,0 +1,24 @@
+@use 'font';
+@use 'colors';
+
+.header {
+    padding-top: 2vw;
+
+    .header__logo {
+        display: block;
+        width: 40%;
+        margin-left: auto;
+        margin-right: auto;
+        user-select: none;
+    }
+
+    .header__subtitle {
+        color: colors.$lightOrange;
+        margin: 0;
+        font-size: 1vw;
+        font-weight: 400;
+        text-align: center;
+        font-style: italic;
+
+    }
+}

@@ -1,0 +1,101 @@
+@use 'font';
+@use 'colors';
+
+.coaches {
+    position: relative;
+    padding-bottom: 10vh;
+
+    .coaches__zoom {
+        position: sticky;
+        top: 12.5vh;
+        background-color: colors.$darkGreen;
+        padding-top: 4vh;
+        padding-bottom: 4vh;
+        z-index: 999;
+        user-select: none;
+
+        .coaches__zoom__button {
+            width: 2vw;
+            padding-left: 0.5vw;
+            padding-right: 0.5vw;
+            border-radius: 0.5vw;
+            background-color: colors.$orange;
+            color: colors.$darkGreen;
+            font-size: 1vw;
+            font-weight: 800;
+            border: none;
+            outline: none;
+            cursor: pointer;
+        }
+
+        .coaches__zoom__text {
+            font-size: 1vw;
+            font-weight: 700;
+            color: colors.$orange;
+            margin-left: 1vw;
+            margin-right: 1vw;
+            text-align: center;
+        }
+    }
+    
+    .coaches__list__section {
+        padding-top: 6vh;
+        padding-bottom: 6vh;
+        position: relative;
+        min-height: 20vh;
+        border-bottom: 0.5vw solid colors.$orange;
+
+        .coaches__list__section__text {
+            position: absolute;
+            margin: 0;
+            bottom: 0;
+            right: 0;
+            font-size: 2.25vw;
+            font-weight: 600;
+            color: colors.$orange;
+    
+        }
+
+        .coaches__list__section__item {
+            padding: 1vw;
+            margin-bottom: 4vh;
+            border-radius: 0.5vw;
+            user-select: none;
+
+
+            .coaches__list__section__item__title {
+                display: block;
+                margin-bottom: 1vh;
+                font-size: 1.25vw;
+                font-weight: 700;
+                text-align: center;
+                line-height: 1.5;
+                height: 7.5vh;
+            }
+
+            .coaches__list__section__item__img {
+                display: block;
+                width: 60%;
+                margin-left: auto;
+                margin-right: auto;
+
+            }
+
+            .coaches__list__section__item__subtitle {
+                margin-bottom: 1vh;
+                font-size: 1.25vw;
+                font-weight: 700;
+                text-align: center;
+            }
+
+            .coaches__list__section__item__text {
+                margin-bottom: 1vh;
+                font-size: 0.75vw;
+                font-weight: 400;
+                font-style: italic;
+                text-align: center;
+            }
+        }
+    }
+
+}

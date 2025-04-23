@@ -1,0 +1,40 @@
+@use 'font';
+@use 'colors';
+
+.timeline {
+    
+    .timeline__header {
+        position: sticky;
+        top: 0;
+        z-index: 99;
+        background-color: colors.$darkGreen;
+        padding-top: 4vh;
+        padding-bottom: 4vh;
+    }
+
+    .timeline__title {
+        margin: 0;
+        font-size: 1.75vw;
+        font-weight: 700;
+        color: colors.$lightBlue;
+    }
+}
+
+.MuiSlider-root {
+    color: colors.$orange !important;
+}
+
+.MuiSlider-thumb {
+
+    &:hover {
+        box-shadow: 0 0 0 0.35vw rgba($color: colors.$orange, $alpha: 0.5) !important;
+    }
+}
+
+.MuiSlider-thumb.Mui-focusVisible {
+    box-shadow: 0 0 0 0.2vw rgba($color: colors.$orange, $alpha: 0.5) !important;
+}
+
+.MuiSlider-markLabel {
+    color: colors.$lightBlue !important;
+}

@@ -33,8 +33,10 @@ const TimelineComponent = () => {
   });
 
   return (
-    <div>
+    <div className='timeline'>
+      <div className='timeline__header'>
       <Slider
+        className='timeline__header__slider'
         defaultValue={marks[marks.length - 1].value}
         step={null}
         marks={marks}
@@ -47,10 +49,9 @@ const TimelineComponent = () => {
           return `${date.toLocaleString('default', { month: 'short' })} ${date.getFullYear()}`;
         }}
       />
+      </div>
 
-      <h1>{formattedDate}</h1>
-
-      <h2>número de dias relativo ao primeiro dia do mês</h2>
+      <h1 className='timeline__title'>{formattedDate}</h1>
 
       <CoachesList categories={categories} />
     </div>
