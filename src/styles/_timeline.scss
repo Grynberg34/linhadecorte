@@ -6,7 +6,7 @@
     .timeline__header {
         position: sticky;
         top: 0;
-        z-index: 99;
+        z-index: 999;
         background-color: colors.$darkGreen;
         padding-top: 4vh;
         padding-bottom: 4vh;
@@ -14,9 +14,17 @@
 
     .timeline__title {
         margin: 0;
+        margin-bottom: 2vh;
         font-size: 1.75vw;
         font-weight: 700;
         color: colors.$lightBlue;
+    }
+
+    .timeline__subtitle {
+        font-size: 0.85vw;
+        font-weight: 400;
+        color: colors.$lightBlue;
+        font-style: italic;
     }
 }
 
@@ -56,6 +64,10 @@
         .timeline__title {
             margin: 0;
             font-size: 5vw;
+        }
+
+        .timeline__subtitle {
+            display: none;
         }
     }
 

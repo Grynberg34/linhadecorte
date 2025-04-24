@@ -67,6 +67,8 @@ const TimelineComponent = () => {
 
       <h1 className='timeline__title'>{formattedDate}</h1>
 
+      <h2 className="timeline__subtitle">passe o mouse em um técnico para ampliar ou use o zoom para ajustar o tamanho de todos</h2>
+
       <CoachesList categories={categories} />
     </div>
   );

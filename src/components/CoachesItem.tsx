@@ -1,15 +1,37 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import { Coach } from '../store/types/coach';
 
 
 interface CoachesItemProps {
   coach: Coach;
   days: number;
+  zoom: number;
 }
 
-const CoachesList: React.FC<CoachesItemProps> = ({ coach,days }) => {
+const CoachesList: React.FC<CoachesItemProps> = ({ coach, days, zoom }) => {
+  const [isMobile, setIsMobile] = useState(false);
+
+  useEffect(() => {
+
+    const handleResize = () => {
+      setIsMobile(window.innerWidth <= 768);
+    };
+
+    handleResize();
+    window.addEventListener('resize', handleResize);
+
+    return () => window.removeEventListener('resize', handleResize);
+  }, []);
+  
   return (
-    <div className={`coaches__list__section__item ${coach.team}`}>
+    <div className={`coaches__list__section__item ${coach.team}`}                 
+    onMouseEnter={(e) => {
+      e.currentTarget.style.transform = `scale(${1 / zoom})`;
+    }}
+    onMouseLeave={(e) => {
+      e.currentTarget.style.transform = `scale(1)`;
+    }}
+    >
       <h1 className='coaches__list__section__item__title'>{coach.name}</h1>
 
       <img className='coaches__list__section__item__img' src={`/times/${coach.team}.png`} alt="" />

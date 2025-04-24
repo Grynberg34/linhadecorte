@@ -5,23 +5,8 @@ import CoachesItem from "@/components/CoachesItem";
 
 const CoachesList: React.FC<CoachesListProps> = ({ categories }) => {
 
-  const [zoom, setZoom] = useState(1);
+  const [zoom, setZoom] = useState(0.2);
 
-  useEffect(() => {
-    const handleResize = () => {
-      if (window.innerWidth <= 768) {
-        setZoom(0.8);
-      } else {
-        setZoom(0.5);
-      }
-    };
-
-    handleResize();
-
-    window.addEventListener('resize', handleResize);
-
-    return () => window.removeEventListener('resize', handleResize);
-  }, []);
 
   const handleZoomIn = () => {
     setZoom((prevZoom) => Math.min(prevZoom + 0.1, 1));
@@ -31,8 +16,12 @@ const CoachesList: React.FC<CoachesListProps> = ({ categories }) => {
     setZoom((prevZoom) => Math.max(prevZoom - 0.1, 0.2));
   };
 
+
+
   return (
-    <div className='coaches'>
+    <div className='coaches'  style={{
+      position: 'relative',
+    }}>
 
 
       <div className="coaches__zoom">
@@ -41,18 +30,16 @@ const CoachesList: React.FC<CoachesListProps> = ({ categories }) => {
         <button className='coaches__zoom__button' onClick={handleZoomIn}>+</button>
       </div>
 
-      <div className='coaches'
+      <div className='coaches__list'
         style={{
         transform: `scale(${zoom})`,
-        transformOrigin: 'top left',
-        transition: 'transform 0.2s ease-in-out',
       }}>
         <div className='coaches__list__section'>
           <Grid container spacing={4}>
 
             {categories.moreThan730.map(({ coach, days }, index) => (
               <Grid size={{ xs: 4, sm: 2 }} key={index}>
-                <CoachesItem coach={coach} days={days} />
+                <CoachesItem coach={coach} days={days} zoom={zoom}/>
               </Grid>
             ))}
 
@@ -68,7 +55,7 @@ const CoachesList: React.FC<CoachesListProps> = ({ categories }) => {
 
             {categories.between365And730.map(({ coach, days }, index) => (
               <Grid size={{ xs: 4, sm: 2 }} key={index}>
-                <CoachesItem coach={coach} days={days} />
+                <CoachesItem coach={coach} days={days} zoom={zoom} />
               </Grid>
             ))}
 
@@ -84,7 +71,7 @@ const CoachesList: React.FC<CoachesListProps> = ({ categories }) => {
 
             {categories.between180And365.map(({ coach, days }, index) => (
               <Grid size={{ xs: 4, sm: 2 }} key={index}>
-                <CoachesItem coach={coach} days={days} />
+                <CoachesItem coach={coach} days={days} zoom={zoom}/>
               </Grid>
             ))}
 
@@ -100,7 +87,7 @@ const CoachesList: React.FC<CoachesListProps> = ({ categories }) => {
 
             {categories.between90And180.map(({ coach, days }, index) => (
               <Grid size={{ xs: 4, sm: 2 }} key={index}>
-                <CoachesItem coach={coach} days={days} />
+                <CoachesItem coach={coach} days={days} zoom={zoom} />
               </Grid>
             ))}
 
@@ -116,7 +103,7 @@ const CoachesList: React.FC<CoachesListProps> = ({ categories }) => {
 
             {categories.lessThan90.map(({ coach, days }, index) => (
               <Grid size={{ xs: 4, sm: 2 }} key={index}>
-                <CoachesItem coach={coach} days={days} />
+                <CoachesItem coach={coach} days={days} zoom={zoom}/>
               </Grid>
             ))}
 
