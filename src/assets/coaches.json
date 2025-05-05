@@ -125,7 +125,7 @@
       {
         "name": "Maurício Barbieri",
         "startDate": "16/12/2024",
-        "endDate": ""
+        "endDate": "04/05/2025"
       },
       {
         "name": "Lucho González",
@@ -812,6 +812,11 @@
   {
     "name": "Corinthians",
     "coaches": [
+      {
+        "name": "Dorival Júnior",
+        "startDate": "28/04/2025",
+        "endDate": ""
+      },
       {
         "name": "Ramón Díaz",
         "startDate": "12/07/2024",
@@ -1593,9 +1598,14 @@
     "name": "Santos",
     "coaches": [
       {
+        "name": "Cléber Xavier",
+        "startDate": "30/04/2025",
+        "endDate": ""
+      },
+      {
         "name": "César Sampaio",
         "startDate": "15/04/2025",
-        "endDate": ""
+        "endDate": "29/04/2025"
       },
       {
         "name": "Pedro Caixinha",
@@ -1845,7 +1855,7 @@
       {
         "name": "Pepa",
         "startDate": "03/09/2024",
-        "endDate": ""
+        "endDate": "04/05/2025"
       },
       {
         "name": "Guto Ferreira",
@@ -1985,7 +1995,7 @@
       {
         "name": "Fábio Carille",
         "startDate": "20/12/2024",
-        "endDate": ""
+        "endDate": "27/04/2025"
       },
       {
         "name": "Felipe Loureiro",

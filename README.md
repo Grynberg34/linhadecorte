@@ -5,7 +5,7 @@ This project is a **timeline-based visualization tool** that allows users to exp
 The app is built using **React**, **TypeScript**, **Redux**, and **Material-UI**, with **SCSS** for styling.
 
 ## Demo
-https://linha-de-corte-zwz82.ondigitalocean.app/
+https://linha-de-corte-izbnn.ondigitalocean.app/
 
 ## Features
 

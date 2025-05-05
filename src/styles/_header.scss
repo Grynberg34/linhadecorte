@@ -16,7 +16,7 @@
     .header__subtitle {
         color: colors.$white;
         margin: 0;
-        font-size: 0.85vw;
+        font-size: 0.9vw;
         font-weight: 400;
         text-align: center;
         font-style: italic;
@@ -27,15 +27,17 @@
 @media only screen and (max-width: 767px) {
 
     .header {
-        padding-top: 6vh;
+        padding-top: 4vh;
 
         .header__logo {
             width: 100%;
         }
 
         .header__subtitle {
+            padding-left: 4vw;
+            padding-right: 4vw;
             font-size: 2.75vw;
-    
+            line-height: 2;
         }
     }
 
