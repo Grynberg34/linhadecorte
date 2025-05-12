@@ -46,3 +46,16 @@ https://linha-de-corte-izbnn.ondigitalocean.app/
    ```bash
    git clone https://github.com/Grynberg34/linhadecorte
    cd linhadecorte
+
+
+## Tests
+
+This project includes a comprehensive test suite to ensure the reliability and functionality of the application. The tests cover components, Redux slices, utility functions, and more.
+
+### Running Tests
+
+To run the test suite, use the following commands:
+
+- **Run all tests**:
+  ```bash
+  npm run test
