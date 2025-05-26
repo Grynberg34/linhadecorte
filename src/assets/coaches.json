@@ -1853,6 +1853,11 @@
     "name": "Sport",
     "coaches": [
       {
+        "name": "Antônio Oliveira",
+        "startDate": "09/05/2025",
+        "endDate": ""
+      },
+      {
         "name": "Pepa",
         "startDate": "03/09/2024",
         "endDate": "04/05/2025"
@@ -1992,6 +1997,11 @@
   {
     "name": "Vasco",
     "coaches": [
+      {
+        "name": "Fernando Diniz",
+        "startDate": "09/05/2025",
+        "endDate": ""
+      },
       {
         "name": "Fábio Carille",
         "startDate": "20/12/2024",
